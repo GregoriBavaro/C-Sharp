@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TaskTwoApp/1.0.0": {
+        "runtime": {
+          "TaskTwoApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskTwoApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
